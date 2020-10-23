@@ -227,8 +227,8 @@ header.fixed #logo {
 /* Добавлено */
 #project > a {
     text-decoration: none;
-    font-size: 30px;
-    color: rgb(177, 131, 19);
+    font-size: 25px;
+    color: rgb(250, 239, 64);
     padding: 7px;
 }
 
